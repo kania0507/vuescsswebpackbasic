@@ -8,7 +8,7 @@
 export default {
  name: 'app',
  components: {
-    Jobs
+   
   },
   
   data: function () {
